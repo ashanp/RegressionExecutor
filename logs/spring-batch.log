@@ -1,0 +1,95 @@
+2024-07-22 10:02:45 ERROR a.e.q.b.c.r.RegressionExecutorApplication - PDF Comparason start
+2024-07-22 10:02:45 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file1.pdf
+2024-07-22 10:02:45 ERROR a.e.q.b.c.r.RegressionExecutorApplication - difference: [ {"page": 1, "x1": 534, "y1": 314, "x2": 607, "y2": 347} ]
+2024-07-22 10:02:45 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:02:46 ERROR a.e.q.b.c.r.RegressionExecutorApplication - XML Comparason start
+2024-07-22 10:02:46 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file3.xml
+2024-07-22 10:02:46 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Expected text value 'Reminder11' but was 'Reminder' - comparing <heading ...>Reminder11</heading> at /note[1]/heading[1]/text()[1] to <heading ...>Reminder</heading> at /note[1]/heading[1]/text()[1] (DIFFERENT)
+2024-07-22 10:02:46 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:03:50 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:03:50 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *PDF Comparason start*
+2024-07-22 10:03:50 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:03:50 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file1.pdf
+2024-07-22 10:03:50 ERROR a.e.q.b.c.r.RegressionExecutorApplication - difference: [ {"page": 1, "x1": 534, "y1": 314, "x2": 607, "y2": 347} ]
+2024-07-22 10:03:50 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:03:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:03:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *XML Comparason start*
+2024-07-22 10:03:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:03:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file3.xml
+2024-07-22 10:03:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Expected text value 'Reminder11' but was 'Reminder' - comparing <heading ...>Reminder11</heading> at /note[1]/heading[1]/text()[1] to <heading ...>Reminder</heading> at /note[1]/heading[1]/text()[1] (DIFFERENT)
+2024-07-22 10:03:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:23:34 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:23:34 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *PDF Comparison start*
+2024-07-22 10:23:34 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:23:34 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file1.pdf
+2024-07-22 10:23:34 ERROR a.e.q.b.c.r.RegressionExecutorApplication - difference: [ {"page": 1, "x1": 534, "y1": 314, "x2": 607, "y2": 347} ]
+2024-07-22 10:23:34 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:23:34 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:23:34 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *XML Comparison start*
+2024-07-22 10:23:34 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:23:34 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file3.xml
+2024-07-22 10:23:34 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Expected text value 'Reminder11' but was 'Reminder' - comparing <heading ...>Reminder11</heading> at /note[1]/heading[1]/text()[1] to <heading ...>Reminder</heading> at /note[1]/heading[1]/text()[1] (DIFFERENT)
+2024-07-22 10:23:34 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:24:30 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:24:30 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *PDF Comparison start*
+2024-07-22 10:24:30 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:24:30 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file1.pdf
+2024-07-22 10:24:30 ERROR a.e.q.b.c.r.RegressionExecutorApplication - difference: [ {"page": 1, "x1": 534, "y1": 314, "x2": 607, "y2": 347} ]
+2024-07-22 10:24:30 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:24:31 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:24:31 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *XML Comparison start*
+2024-07-22 10:24:31 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:24:38 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file3.xml
+2024-07-22 10:24:38 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Expected text value 'Reminder11' but was 'Reminder' - comparing <heading ...>Reminder11</heading> at /note[1]/heading[1]/text()[1] to <heading ...>Reminder</heading> at /note[1]/heading[1]/text()[1] (DIFFERENT)
+2024-07-22 10:24:38 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *PDF Comparison start*
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file1.pdf
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - difference: [ {"page": 1, "x1": 534, "y1": 314, "x2": 607, "y2": 347} ]
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *XML Comparison start*
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file3.xml
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Expected text value 'Reminder11' but was 'Reminder' - comparing <heading ...>Reminder11</heading> at /note[1]/heading[1]/text()[1] to <heading ...>Reminder</heading> at /note[1]/heading[1]/text()[1] (DIFFERENT)
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **************************
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *CONTROL Comparison start*
+2024-07-22 10:24:58 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **************************
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *PDF Comparison start*
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file1.pdf
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - difference: [ {"page": 1, "x1": 534, "y1": 314, "x2": 607, "y2": 347} ]
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *XML Comparison start*
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file3.xml
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Expected text value 'Reminder11' but was 'Reminder' - comparing <heading ...>Reminder11</heading> at /note[1]/heading[1]/text()[1] to <heading ...>Reminder</heading> at /note[1]/heading[1]/text()[1] (DIFFERENT)
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **************************
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *CONTROL Comparison start*
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **************************
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference at line %d:%n
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - File1: %s%n
+2024-07-22 10:27:51 ERROR a.e.q.b.c.r.RegressionExecutorApplication - File2: %s%n
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *PDF Comparison start*
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file1.pdf
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - difference: [ {"page": 1, "x1": 534, "y1": 314, "x2": 607, "y2": 347} ]
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *XML Comparison start*
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **********************
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference fount in /Users/ashanperera/Development/intellij_workspace/springbatch/folders/folder1/file3.xml
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Expected text value 'Reminder11' but was 'Reminder' - comparing <heading ...>Reminder11</heading> at /note[1]/heading[1]/text()[1] to <heading ...>Reminder</heading> at /note[1]/heading[1]/text()[1] (DIFFERENT)
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - ----------------------------------------------------------------------------------------
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **************************
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - *CONTROL Comparison start*
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - **************************
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - Difference at line %d:%n
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - File1: some file 1
+2024-07-22 10:29:13 ERROR a.e.q.b.c.r.RegressionExecutorApplication - File2: some file 2
